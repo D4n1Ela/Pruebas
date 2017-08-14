@@ -1,1 +1,1 @@
-gregamos una línea en el file1.txt
+Agregamos una línea en el file1.txt
